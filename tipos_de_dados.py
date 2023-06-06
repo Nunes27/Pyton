@@ -19,4 +19,3 @@ type()
 #casting float, int, str
 
 """
-

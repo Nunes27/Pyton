@@ -15,6 +15,10 @@ Operador da subtração -
 Operador da multip  *
 Operador Divisão /
 
+operador do resto %
+operador da exponenciação **
+operador da divisão inteira //
+
 """
 x = 3
 y = 5

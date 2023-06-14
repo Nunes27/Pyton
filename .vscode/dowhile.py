@@ -16,4 +16,3 @@ while True:
 else:
     print('Erro na aplicação')
 print(bool(palpite))
-

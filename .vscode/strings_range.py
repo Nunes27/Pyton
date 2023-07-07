@@ -1,2 +1,5 @@
-for x in range (1,10):
-    
+nome = "Chicago"
+nome2 = "queens"
+
+print(nome, end=" ")
+print(nome2)
